@@ -5,7 +5,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Hello gitHub");
+            Console.WriteLine("Enter your name: ");
+        Console.ReadLine();
         }
     }
 
