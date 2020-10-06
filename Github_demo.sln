@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Github_demo", "Github-demo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{FBE29C4F-3B54-4F85-B4AF-60C7C0F7A030}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "Exception_Handling\Exception_Handling.csproj", "{AF2E125E-2E34-4EE1-89C3-5A2BC636007D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{FBE29C4F-3B54-4F85-B4AF-60C7C0F7A030}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBE29C4F-3B54-4F85-B4AF-60C7C0F7A030}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBE29C4F-3B54-4F85-B4AF-60C7C0F7A030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2E125E-2E34-4EE1-89C3-5A2BC636007D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2E125E-2E34-4EE1-89C3-5A2BC636007D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2E125E-2E34-4EE1-89C3-5A2BC636007D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2E125E-2E34-4EE1-89C3-5A2BC636007D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
