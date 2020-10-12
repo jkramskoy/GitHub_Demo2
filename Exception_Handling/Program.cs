@@ -48,6 +48,7 @@ namespace Exception_Handling
             {
                 Console.Write("Global error :" + ex.Message);
             }
+
         }
 
         static bool isValidNumber(int num)
