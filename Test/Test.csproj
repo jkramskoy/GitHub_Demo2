@@ -15,5 +15,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Github-demo\Github_demo.csproj" />
+    <ProjectReference Include="..\Prime_Factors\Prime_Factors.csproj" />
   </ItemGroup>
 </Project>

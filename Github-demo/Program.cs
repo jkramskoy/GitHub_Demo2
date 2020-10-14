@@ -83,21 +83,12 @@ class Program
             a--;
             WriteLine(a); // this will output 2147483646 
         }
-       
-
 
     }
-    public int Add(int num1, int num2)
-    {
-        return num1 + num2;
-
-        do
-        {
-
-        } while (true);
-    }
-
-
 
 }
+    
+
+
+
 
